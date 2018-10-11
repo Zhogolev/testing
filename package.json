@@ -1,0 +1,23 @@
+{
+  "name": "test-module",
+  "version": "0.0.1",
+  "description": "test my own module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhogolev/testing.git"
+  },
+  "author": "zhogolev.ke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhogolev/testing/issues"
+  },
+  "homepage": "https://github.com/Zhogolev/testing#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
